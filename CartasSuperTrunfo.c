@@ -17,19 +17,19 @@ int main (){
     scanf("%s", &codigo);
 
 
-    printf("Insira o nome da cidade A01:\n");
+    printf("Insira o nome da cidade:\n");
     scanf("%s", &cidade); 
 
-    printf("Insira a população da cidade A01:\n");
+    printf("Insira a população da cidade:\n");
     scanf("%d", &populacao);
 
-    printf("Insira a área em km² da cidade A01:\n");
+    printf("Insira a área em km² da cidade:\n");
     scanf("%f", &area);
 
-    printf("Insira o PIB da cidade A01:\n");
+    printf("Insira o PIB da cidade:\n");
     scanf("%f", &PIB);
 
-    printf("Insira o número de pontos túristicos da cidade A01:\n");
+    printf("Insira o número de pontos túristicos da cidade:\n");
     scanf("%d", &);
 
     printf("Código da cidade: %s\n", codigo);
