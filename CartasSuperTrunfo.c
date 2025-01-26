@@ -30,7 +30,7 @@ int main (){
     scanf("%f", &PIB);
 
     printf("Insira o número de pontos túristicos da cidade:\n");
-    scanf("%d", &);
+    scanf("%d", &turisticos);
 
     printf("Código da cidade: %s\n", codigo);
     printf("Nome da cidade: %s\n", cidade);
